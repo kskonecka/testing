@@ -4,6 +4,7 @@
 /node_modules
 /testing/node_modules
 /hoc/node_modules
+/middlewares/node_modules
 
 # testing
 /coverage
