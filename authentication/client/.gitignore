@@ -2,13 +2,6 @@
 
 # dependencies
 /node_modules
-/testing/node_modules
-/hoc/node_modules
-/middlewares/node_modules
-/authehtication/server/node_modules
-/authehtication/config/node_modules
-/authehtication/config.js
-
 
 # testing
 /coverage
